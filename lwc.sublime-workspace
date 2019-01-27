@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"na",
+				"navbar-brand"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"ref_url"
+			],
+			[
+				"jo",
+				"join_obj"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"joi",
+				"join_id"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"ty",
+				"try	Try/Except"
+			],
+			[
+				"newj",
+				"new_join_old"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"get",
+				"getaltanswer"
+			],
+			[
+				"an",
+				"answer_id"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"cate",
+				"cate_name"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"mail",
+				"mailBody"
+			],
+			[
+				"wa",
+				"WaiverAdmin"
+			],
+			[
+				"cou",
+				"CourseAdmin"
+			],
+			[
+				"_",
+				"__str__"
+			],
+			[
+				"ph",
+				"photo_id"
+			],
+			[
+				"pho",
+				"photo_id"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"hid",
+				"hideEditMode"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"alb",
+				"album"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"albu",
+				"album_id"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"user",
+				"userlist"
+			],
+			[
+				"qr",
+				"qrscanData"
+			],
+			[
+				"q",
+				"qrscanData"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"fr",
+				"frmDate"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"btn",
+				"btnSubmit"
+			],
+			[
+				"chal",
+				"challenge_id"
+			],
+			[
+				"chall",
+				"challenge"
+			],
+			[
+				"cha",
+				"challenge"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"sca",
+				"scratch_card"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"midd",
+				"middleName"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Conn",
+				"connections"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/joins/models.py",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/forms.py",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/admin.py",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/views.py",
+			"settings":
+			{
+				"buffer_size": 1584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/templates/share.html",
+			"settings":
+			{
+				"buffer_size": 6280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 2498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/lwc/middleware.py",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/urls.py",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/lwc/settings.py",
+			"settings":
+			{
+				"buffer_size": 3169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/static/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 121457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1721,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/joins/templates/base.html",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/joins/static/css/bootstrap.css",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/joins/templates/navbar.html",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/joins/templates/home.html",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/joins/views.py",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/joins/urls.py",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/lwc/settings.py",
+		"/home/tajmulalam/Desktop/git/client/quovontaenelson/lwc/src/lwc/urls.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/views.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/static/css/bootstrap.css",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/templates/base.html",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/templates/query.html",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/urls.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/apps.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/models.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/admin.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/templates/email-template.html",
+		"/home/tajmulalam/Desktop/git/client/question_finder/queryapp/__init__.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/questionfinder/wsgi.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/questionfinder/urls.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/questionfinder/settings.py",
+		"/home/tajmulalam/Desktop/git/client/question_finder/manage.py",
+		"/home/tajmulalam/Desktop/git/client/questionfinder/questionfinder/templates/query.html",
+		"/home/tajmulalam/Desktop/git/client/questionfinder/templates/query/waiver_application.html",
+		"/home/tajmulalam/Desktop/git/client/questionfinder/templates/base.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/wishprototype/urls.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/loggedin.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/categories/urls.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/wishprototype/settings.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/buyitems/models.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/buyitems/views.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/buyitems/urls.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/buyitems/forms.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/home.html",
+		"/home/tajmulalam/Desktop/git/waiver/waiverapp/__init__.py",
+		"/home/tajmulalam/Desktop/git/waiver/waiver/__init__.py",
+		"/home/tajmulalam/Desktop/git/waiver/waiver/settings.py",
+		"/home/tajmulalam/Desktop/git/waiver/waiver/wsgi.py",
+		"/home/tajmulalam/Desktop/git/waiver/waiver/urls.py",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/buy_item.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/ counteroffertoseller.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/ counteroffertobuyer.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/itempage.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/post_detail.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/templates/howitworks.html",
+		"/home/tajmulalam/Downloads/wishlist/wishlist/manage.py",
+		"/home/tajmulalam/Desktop/git/volunteercounter/volunteercounter/volunteercounterapp/views.py",
+		"/home/tajmulalam/Desktop/git/volunteercounter/volunteercounter/volunteercounterapp/templates/login.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/models.py",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/views.py",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/admin.py",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/registration/signup.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/registration/login.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/home_base.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/index.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/gallery/settings.py",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/urls.py",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/addphoto.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/photos.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/editalbum.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/addalbum.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/base.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/updates.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/templates/albums.html",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/apps.py",
+		"/home/tajmulalam/Desktop/git/gallery_dev/galleryapp/tests.py",
+		"/home/tajmulalam/Desktop/git/gallery/galleryapp/models.py",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/plots.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/base.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/home_base.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/index.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/farms.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementsystem/settings.py",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/static/css/style.css",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/static/css/bootstrap.css",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/login.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/templates/registration/login.html",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/urls.py",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementsystem/urls.py",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementapp/views.py",
+		"/home/tajmulalam/Desktop/git/farmmanagementsystem/farmmanagementsystem/farmmanagementsystem/wsgi.py",
+		"/home/tajmulalam/Desktop/barcode_scanner/index.html",
+		"/home/tajmulalam/Desktop/git/Github_projects/zxing-cpp-emscripten/examples/js/index.html",
+		"/home/tajmulalam/Desktop/index.html",
+		"/home/tajmulalam/Desktop/git/qr_to_db_old/volunteercounterapp/templates/createNewUser.html",
+		"/home/tajmulalam/Desktop/git/qr_to_db_old/volunteercounterapp/models.py",
+		"/home/tajmulalam/Desktop/git/qr_to_db/volunteercounterapp/templates/createNewUser.html",
+		"/home/tajmulalam/Desktop/git/qr_to_db_old/volunteercounterapp/templates/login.html",
+		"/home/tajmulalam/Desktop/git/qr_to_db/volunteercounterapp/templates/base_admin.html",
+		"/home/tajmulalam/Desktop/git/qr_to_db/volunteercounter/settings.py",
+		"/home/tajmulalam/Desktop/git/qr_to_db/static/volunteercounterapp/js/argon.js",
+		"/home/tajmulalam/Desktop/git/example/accounts/urls.py",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/editchallenge.html",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/datasetlist.html",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/predictionlist.html",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/challengelist.html",
+		"/home/tajmulalam/Desktop/git/volunteercounter/volunteercounter/requirements.txt",
+		"/home/tajmulalam/Desktop/git/volunteercounter/volunteercounter/volunteercounter/settings.py",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/adddataset.html",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/addnewdataset.html",
+		"/var/www/html/pinreader/addpins.php",
+		"/var/www/html/pinreader/test.php",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/prediction.html",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/dashboard.html",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/db.sqlite3",
+		"/home/tajmulalam/Desktop/git/pred/Predicate/predicate/predicateapp/templates/register.html",
+		"/var/www/html/pinreader/update.php",
+		"/var/www/html/pinreader/editpin.php",
+		"/var/www/html/pinreader/viewImage.php",
+		"/var/www/html/pinreader/loadpins.php",
+		"/var/www/html/pinreader/pinlist_2.php",
+		"/var/www/html/pinreader/export.php",
+		"/var/www/html/pinreader/pinlist.php",
+		"/var/www/html/pinreader/login.php",
+		"/var/www/html/Ocr/adduser.php",
+		"/var/www/html/Ocr/searchuser.php",
+		"/var/www/html/pinreader/editpins.php",
+		"/home/tajmulalam/.cache/.fr-PiQG4h/voxzi.com-Aug-2018",
+		"/var/www/html/pinreader/logout.php",
+		"/var/www/html/pinreader/header.php",
+		"/home/tajmulalam/Downloads/searchuser.php",
+		"/home/tajmulalam/Downloads/wp-config.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"\"",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"def like(request,question_id):\n	pass",
+			"= ",
+			"BooleanField",
+			"\"Email: \"+email+\"\\n\"+",
+			"max_length",
+			"addphoto",
+			"',",
+			"scss",
+			"static",
+			"text",
+			"@csrf_exempt\ndef qrresults(request):\n    user = checkUserAliveInSession(request)\n    print(user)\n    if user is False:\n        return render_to_response('login.html')\n    else:\n        if request.method == 'GET':\n            return render_to_response('qrresults.html', {'sessionID': user})\n        elif request.method == 'POST':\n            data = json.loads(request.body)\n            print(data)\n            result = validateFields(data)\n            if result[1]:\n                qrscanData = QrScanData.objects.all().filter(scannedAt__range=[data['frmDate'], data['toDate']])\n                result_list = list(qrscanData.values('qrCode', 'user_id','scannedAt','id'))\n                return HttpResponse(json.dumps({\"msg\": result[0], \"status\": '200', \"qrscanData\":result_list},indent=4, sort_keys=True, default=str),\n                                    content_type='application/json')\n            else:\n                return HttpResponse(json.dumps({\"msg\": result[0], \"status\": '500', \"qrscanData\": None}),\n                                    content_type='application/json')\n        else:\n            return render_to_response('login.html')",
+			"getStatusWiseSwitchElement",
+			"logout",
+			"=$(\"#",
+			"addnewchallenge",
+			"pin_1='pin_1',",
+			"<div class=\"form-group\">\n					      <label class=\"control-label col-sm-2\" for=\"pin1\">Pin_1:</label>\n					      <div class=\"col-sm-10\">\n					      	<!-- <input type=\"text\" name=\"pin_1\" value=\"<?=$pin_1;?>\"><br> -->\n					        <input type=\"text\" class=\"form-control\" value=\"<?=$pin_1;?>\" name=\"pin_1\">\n					      </div>\n					    </div>",
+			"pin_4",
+			"() ",
+			"echo \" <nav class=\"navbar navbar-inverse\"><div class=\"container-fluid\"><div class=\"navbar-header\"><a class=\"navbar-brand\" href=\"#\">WebSiteName</a></div><ul class=\"nav navbar-nav\"><li class=\"active\"><a href=\"#\">Home</a></li></ul><ul class=\"nav navbar-nav navbar-right\"><li><a href=\"#\"><span class=\"glyphicon glyphicon-log-in\"></span> <?php echo \"Logout(\".$_SESSION['username'].\")\"; ?> </a></li></ul></div></nav>",
+			"Image",
+			"bootstrap",
+			"OR last_name LIKE '$lastName%'",
+			"OR middle_name LIKE '$middleName%'",
+			"&& isset($_POST[\"last_name\"]",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/joins/models.py",
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/joins/forms.py",
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/joins/admin.py",
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/joins/views.py",
+					"settings":
+					{
+						"buffer_size": 1584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1401,
+								1401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/joins/templates/share.html",
+					"settings":
+					{
+						"buffer_size": 6280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1674,
+								1674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/joins/templates/home.html",
+					"settings":
+					{
+						"buffer_size": 2498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								1285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/joins/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1088,
+								1088
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 70.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/lwc/middleware.py",
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/joins/urls.py",
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/lwc/settings.py",
+					"settings":
+					{
+						"buffer_size": 3169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2093,
+								2093
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/joins/static/css/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 121457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121457,
+								121457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/joins/templates/navbar.html",
+					"settings":
+					{
+						"buffer_size": 1721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}

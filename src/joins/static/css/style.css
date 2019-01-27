@@ -1,0 +1,51 @@
+body, html{
+	width: 100%;
+	display: grid;
+}
+.page-border{
+	border: 1px blue solid;
+	border-radius: 4px;
+	padding: 10px;
+}
+.page-center{
+	margin: auto;
+}
+
+.bg-white{
+	background-color: white;
+	padding: 15px;
+	border: none;
+}
+
+.bg-berry{
+  background-color: #a95c97;
+} 
+.btn-berry{
+  background-color: #fb028d;
+  color: white;
+}
+.btn-berry:hover{
+	color:white;
+}
+
+.page-center a:hover{
+	text-decoration: none;
+}
+
+.bg-footer{
+	background-color: #A9A9A9;
+	color: white;
+}
+.footer {
+  position: bottom ;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #A9A9A9;
+  color: white;
+  text-align: center;
+}
+
+.input-format{
+	margin: 10px;
+}
